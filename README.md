@@ -28,6 +28,8 @@ Erda where I was living :D
 
 Amir Mohammad Safari Livari
 AM-SL
+
 <div align="center">
-![](pics/AMSL.jpg)
+![AMSL](pics/AMSL.jpg)
 </div>
+
