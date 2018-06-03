@@ -30,6 +30,6 @@ Amir Mohammad Safari Livari
 AM-SL
 
 <div align="center">
-![AMSL](https://raw.githubusercontent.com/JARVIS-AI/mpgac/master/pics/AMSL.jpg)
+<img src="https://raw.githubusercontent.com/JARVIS-AI/mpgac/master/pics/AMSL.jpg">
 </div>
 
